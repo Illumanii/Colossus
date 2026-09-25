@@ -1,5 +1,5 @@
 --!strict
---@creator 3velyvnn
+--@creator Illumanii
 --@description Utilities for creating otpauth:// URIs
 
 --[=[
