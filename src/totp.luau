@@ -1,5 +1,5 @@
 --!strict
---@creator 3velyvnn
+--@creator Illumanii
 --@description TOTP implementation using HMAC-SHA1
 
 --[=[
